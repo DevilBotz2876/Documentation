@@ -8,6 +8,9 @@ Meeting minutes are in the minutes file.
   
 - CTRE docs: https://docs.ctre-phoenix.com/en/stable/index.html
 
+- PIXY docs:
+  - https://github.com/PseudoResonance/Pixy2JavaAPI
+
 - kit of parts: https://www.firstinspires.org/robotics/frc/kit-of-parts
 
 - kickoff blog post: https://www.firstinspires.org/robotics/frc/blog/2022-kickoff-so-close
