@@ -37,6 +37,7 @@ If you are new to markdown, see https://docs.github.com/en/github/writing-on-git
 ### What do we need to do next time?
 - [ ] instal game tools 2022 on programing 1234
 - [ ] dowload and instal(through usb drive) game tools on Bojangles, and QuickSilver
+- [ ] update firmware on roborio
 # 2022-01-08
 ### What did we do?
 - Kickoff happened.  We just spent time reading/understanding game manual and building a mock field.
