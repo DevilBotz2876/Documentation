@@ -17,7 +17,7 @@ If you are new to markdown, see https://docs.github.com/en/github/writing-on-git
  - [ ] Driver Satation 03 - Password: 2876 - Has Radio Imaging Software
  - [ ] Big Red - Password: 2876robotics
  - [ ] Programing 1234: - Password: 2876robotics - Cdrive 2021 software
- - [ ] Bojangles - Password: 2876 - no new software as of 1/12/2022
+ - [ ] Bojangles - Password: 2876 - no new software as of 1/12/2022 optional
  - [ ] QuickSilver - Password: mentor2876 - no new software as of 1/12/2022 Important
 
 # 2022 TODO
