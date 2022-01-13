@@ -13,6 +13,12 @@ Write down everything you do at a meeting.  Include things like:
 Write down goals/ideas/plans for next meeting.  That way the people that show next time know what they can work on.  Not everything in the next time list will get done.
 
 If you are new to markdown, see https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+# laptops
+ - [ ] Driver Satation 03 - Password: 2876 - Has Radio Imaging Software
+ - [ ] Big Red - Password: 2876robotics
+ - [ ] Programing 1234: - Password: 2876robotics - Cdrive 2021 software
+ - [ ] Bojangles - Password: 2876 - no new software as of 1/12/2022
+ - [ ] QuickSilver - Password: mentor2876 - no new software as of 1/12/2022 Important
 
 # 2022 TODO
 - [ ] Install 2022 software on laptops https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html
@@ -23,10 +29,13 @@ If you are new to markdown, see https://docs.github.com/en/github/writing-on-git
 - [ ] Update firmware on PDP
 - [ ] Update firmware on all Talron SRX
 
-# 2022-01-10
+# 2022-01-12
 ### What did we do?
+- [ ] Install 2022 software on laptops https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html (Except on QuickSilver, and Bojangles)
+- [ ] Downloaded the Radio imaging tool on Drive Station 2
 ### What do we need to do next time?
-
+- [ ] instal game tools 2022 on programing 1234
+- [ ] 
 # 2022-01-08
 ### What did we do?
 - Kickoff happened.  We just spent time reading/understanding game manual and building a mock field.
