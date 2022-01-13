@@ -33,9 +33,10 @@ If you are new to markdown, see https://docs.github.com/en/github/writing-on-git
 ### What did we do?
 - [ ] Install 2022 software on laptops https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html (Except on QuickSilver, and Bojangles)
 - [ ] Downloaded the Radio imaging tool on Drive Station 2
+- [ ] game tools 2022 on Big Red, Programing 1234, and Driver Station 03
 ### What do we need to do next time?
 - [ ] instal game tools 2022 on programing 1234
-- [ ] 
+- [ ] dowload and instal(through usb drive) game tools on Bojangles, and QuickSilver
 # 2022-01-08
 ### What did we do?
 - Kickoff happened.  We just spent time reading/understanding game manual and building a mock field.
