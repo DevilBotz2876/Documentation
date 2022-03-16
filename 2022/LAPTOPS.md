@@ -8,7 +8,7 @@ We have a number of laptops we can use.  This is list of them and what is instal
   - Password: 2876 
   - Has Radio Imaging Software
 - Programing 1234: 
-  - Password: 2876robotics 
+  - Password: 2876
   - C drive 2021 software
   - 2022-02-05: Installed latest Windows/System Updates
 - Bojangles 
