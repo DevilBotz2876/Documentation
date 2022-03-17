@@ -27,6 +27,6 @@ We have a number of laptops we can use.  This is list of them and what is instal
 - QuickSilver 
   - Password: mentor2876 
   - no new software as of 1/12/2022 Important
- - Big Red 
+- Big Red 
   - Password: 2876robotics
   - 2022-02-05: SSD defective. Mr Khan will order a replacement SSD
